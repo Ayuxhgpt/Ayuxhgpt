@@ -1,6 +1,6 @@
 <!-- 🔥 TOP ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Riyal%20⚡&fontSize=60&fontAlignY=50&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=AyuxhGpt%20⚡&fontSize=60&fontAlignY=50&animation=fadeIn"/>
 </p>
 
 <!-- ⌨️ TYPING EFFECT -->
